@@ -98,8 +98,8 @@ streamlit run frontend.py
 Try queries like:
 
 - `"apa itu machine learning"`  
-- `"what is reinforcement learning wikipedia"`  
-- `"perkembangan teknologi AI tahun 2024 arxiv"`
+- `"what is reinforcement learning"`  
+- `"perkembangan teknologi AI tahun 2024"`
 
 The app will:
 1. Try fetching real-time information from web.
